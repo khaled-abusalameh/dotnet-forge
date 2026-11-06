@@ -1,0 +1,142 @@
+[
+  {
+    "file": "oop.md",
+    "source_sha256_lf": "f37a7446070aa2e20007083b8a1735fa5f6a6ddfeb0f95c9f129de928805681a",
+    "migration": "references/ -> references/tracks/; added Teaching contract; preserved curriculum otherwise unchanged"
+  },
+  {
+    "file": "naming-code-style.md",
+    "source_sha256_lf": "8331b2562ce1f343ca786fdc6b79cef1ff26df96f56779af6ad876a64daba088",
+    "migration": "references/ -> references/tracks/; added Teaching contract; preserved curriculum otherwise unchanged"
+  },
+  {
+    "file": "solid.md",
+    "source_sha256_lf": "1f4c36ad8edb4e023ea6dafe5ff03fcee7dda2b9a5131847d5c848330e4a3a7f",
+    "migration": "references/ -> references/tracks/; added Teaching contract; preserved curriculum otherwise unchanged"
+  },
+  {
+    "file": "design-patterns.md",
+    "source_sha256_lf": "8b8465ad0d59c616280cb58f981701019f503d010f61ddf2715409226d53c832",
+    "migration": "references/ -> references/tracks/; added Teaching contract; preserved curriculum otherwise unchanged"
+  },
+  {
+    "file": "fluent-interface.md",
+    "source_sha256_lf": "ee56ef64ea10e6c4f24de6a0a726092cff77a3a3feda81bab14b71e4c6daca78",
+    "migration": "references/ -> references/tracks/; added Teaching contract; preserved curriculum otherwise unchanged"
+  },
+  {
+    "file": "ef-fluent-api.md",
+    "source_sha256_lf": "0c1eb72f48a408213bec466b63a5e3c0fda3376d0370a7684523f349908e795c",
+    "migration": "references/ -> references/tracks/; added Teaching contract; preserved curriculum otherwise unchanged"
+  },
+  {
+    "file": "tsql-sqlserver.md",
+    "source_sha256_lf": "352ef81ea6676e35a116f0daafd6ba2cfa52eb6767c936fada7ca7b05d7a95e7",
+    "migration": "references/ -> references/tracks/; added Teaching contract; preserved curriculum otherwise unchanged"
+  },
+  {
+    "file": "query-complexity.md",
+    "source_sha256_lf": "66b2aeec2fb5ab01a026ca613086e5b51efab9998427d2963e286c8e3feec15e",
+    "migration": "references/ -> references/tracks/; added Teaching contract; preserved curriculum otherwise unchanged"
+  },
+  {
+    "file": "redis-caching.md",
+    "source_sha256_lf": "f4033a40b23eeeec3126430f34d9a3d4b9eee8f0328c9139d66c2c54634179bd",
+    "migration": "references/ -> references/tracks/; added Teaching contract; preserved curriculum otherwise unchanged"
+  },
+  {
+    "file": "api-design.md",
+    "source_sha256_lf": "08d2af8f558d68f3240e97aeec7184e789bfe5bc1a01eaa9b65fa74f4a5d8cc6",
+    "migration": "references/ -> references/tracks/; added Teaching contract; preserved curriculum otherwise unchanged"
+  },
+  {
+    "file": "openapi.md",
+    "source_sha256_lf": "902a9f20badc849b92174e2f274d8f926f387ad78e06c84cd79fb228af021a57",
+    "migration": "references/ -> references/tracks/; added Teaching contract; preserved curriculum otherwise unchanged"
+  },
+  {
+    "file": "jwt-auth.md",
+    "source_sha256_lf": "4452d44bbfb35f21c3ab788b9392e19ab6d51d2145492975cff56ec801fe79fb",
+    "migration": "references/ -> references/tracks/; added Teaching contract; preserved curriculum otherwise unchanged"
+  },
+  {
+    "file": "testing.md",
+    "source_sha256_lf": "a96c58042522b8c4d55b424f4b0458d8208b386b28efc46cb9a23a5b95cc5e15",
+    "migration": "references/ -> references/tracks/; added Teaching contract; preserved curriculum otherwise unchanged"
+  },
+  {
+    "file": "debugging.md",
+    "source_sha256_lf": "1fd38fd3519743ec4c4a1c0f08984ee6bfb18f960b24b6dece98fd8d54f30cd1",
+    "migration": "references/ -> references/tracks/; added Teaching contract; preserved curriculum otherwise unchanged"
+  },
+  {
+    "file": "legacy-refactoring.md",
+    "source_sha256_lf": "90b78f634361df86d87819555b5c3f6034d9b8eb0a3f48cfa7515e50c03f472e",
+    "migration": "references/ -> references/tracks/; added Teaching contract; preserved curriculum otherwise unchanged"
+  },
+  {
+    "file": "senior-toolkit.md",
+    "source_sha256_lf": "6e8153ca736b77e2e31d6f999b7dc0e129ba3afa68345758dd5fa1f50980c8df",
+    "migration": "references/ -> references/tracks/; added Teaching contract; preserved curriculum otherwise unchanged"
+  },
+  {
+    "file": "async-concurrency.md",
+    "source_sha256_lf": "6a0d3549b199ae93893e9e3f161575d421e815987f6bfb91ff66e75adb562746",
+    "migration": "references/ -> references/tracks/; added Teaching contract; preserved curriculum otherwise unchanged"
+  },
+  {
+    "file": "performance.md",
+    "source_sha256_lf": "09630b9f11694ce65f148616a4f439636f05afcb5584a120f8cee78ca8e32d56",
+    "migration": "references/ -> references/tracks/; added Teaching contract; preserved curriculum otherwise unchanged"
+  },
+  {
+    "file": "clean-architecture.md",
+    "source_sha256_lf": "21277e848ba7185707bd8152aae48a92e50f60ac94d68bbada90c6d70dc5d1f1",
+    "migration": "references/ -> references/tracks/; added Teaching contract; preserved curriculum otherwise unchanged"
+  },
+  {
+    "file": "messaging-fundamentals.md",
+    "source_sha256_lf": "afbe103cdb0af2f23fc2df3c75c9028877dc8aa1c2531ffbfaa9959ce68299f9",
+    "migration": "references/ -> references/tracks/; added Teaching contract; preserved curriculum otherwise unchanged"
+  },
+  {
+    "file": "rabbitmq.md",
+    "source_sha256_lf": "4655b65d16ab84f3d27a3d91204d195f15f415887df17c01b2ca2831f92a2044",
+    "migration": "references/ -> references/tracks/; added Teaching contract; preserved curriculum otherwise unchanged"
+  },
+  {
+    "file": "kafka.md",
+    "source_sha256_lf": "091ea779624061b7d952bbfabbf9ebaccfda991db9e580bd941c27c00dc034a6",
+    "migration": "references/ -> references/tracks/; added Teaching contract; preserved curriculum otherwise unchanged"
+  },
+  {
+    "file": "signalr.md",
+    "source_sha256_lf": "d7a552bb0416db912294fe916867b5d461a1ec669b2640b277df941e0f03b7ce",
+    "migration": "references/ -> references/tracks/; added Teaching contract; preserved curriculum otherwise unchanged"
+  },
+  {
+    "file": "microservices.md",
+    "source_sha256_lf": "c492faae0d67ca232f379c4d96a6fe012e4b88715faf0f6116134eb9860def8f",
+    "migration": "references/ -> references/tracks/; added Teaching contract; preserved curriculum otherwise unchanged"
+  },
+  {
+    "file": "docker.md",
+    "source_sha256_lf": "07db0a21c4108f848cff0b6b3b8797e87b3b6a9d3614923d1ae62c96722a9625",
+    "migration": "references/ -> references/tracks/; added Teaching contract; preserved curriculum otherwise unchanged"
+  },
+  {
+    "file": "kubernetes.md",
+    "source_sha256_lf": "d74a27479985c2e0c5336081e9d7ea9c8ad3257c581865a3b84d5e45491b2f44",
+    "migration": "references/ -> references/tracks/; added Teaching contract; preserved curriculum otherwise unchanged"
+  },
+  {
+    "file": "healthcare.md",
+    "source_sha256_lf": "9af11e44a3b224b413bf6d14b97f469eb3641026b90abb1eef5f191e43b774d7",
+    "migration": "references/ -> references/tracks/; added Teaching contract; preserved curriculum otherwise unchanged"
+  },
+  {
+    "file": "files-reports-realtime.md",
+    "source_sha256_lf": "7c81287dbcfd33f79a17f7393ee6eaa2a4353ecdd4bc718fac3aa0b30bf9ad7a",
+    "migration": "references/ -> references/tracks/; added Teaching contract; preserved curriculum otherwise unchanged"
+  }
+]
