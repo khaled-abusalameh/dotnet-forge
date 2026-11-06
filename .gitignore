@@ -1,0 +1,14 @@
+learning/
+**/learning/
+.claude/skills/dotnet-api-mentor/
+.agents/skills/dotnet-api-mentor/
+.gemini/skills/dotnet-api-mentor/
+**/bin/
+**/obj/
+.env
+.env.*
+!.env.example
+*.user
+*.suo
+.DS_Store
+__pycache__/
